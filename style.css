@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+    justify-content: center;
+}
+.col-3{
+    background-color: blue;
+    color:#fff;
+    margin: 5px;
+    text-align: center;
+}
